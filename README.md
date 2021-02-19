@@ -1,4 +1,4 @@
-Script to monitor music playing in Cmus and write it to a CSV
+Shell script to monitor music playing in Cmus and write it to a CSV
 
 # Running
 
