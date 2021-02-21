@@ -2,7 +2,7 @@
 
 Shell script to monitor music playing in Cmus and write it to a CSV
 
-# Running
+# Installation
 
 `git clone https://github.com/benarmstead/cmus-music-monitor/`
 
