@@ -14,7 +14,11 @@ Gets all the metadata of the song being listened to, and writes it to a CSV
 
 `./musicMonitor`
 
+I recommend running this script on statup in the background in order for it to always be monitoring Cmus
+
+e.g. I added exec `~/Scripts/musicMonitor/musicMonitor.sh` to my `.config/sway/config`
+
 # Output
-`<Title>, <Artist>,	<Album>,	<Genre>,	<Song Length>,	<Track number>,	<Year>,	<Play date>,	<Play time>,	<Volume>`
+` <Title>, <Artist>,	<Album>,	<Genre>,	<Song Length>,	<Track number>,	<Year>,	<Play date>,	<Play time>,	<Volume>`
 
 When a tag is not found, then nothing is added except "," , meaning that the colums are always the same for each feild
