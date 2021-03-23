@@ -1,6 +1,8 @@
 # Cmus Music Monitor
 
-Shell script to monitor music playing in Cmus and write it to a CSV
+Shell script for Cmus to monitor music listening habits.
+
+Gets all the metadata of the song being listened to, and writes it to a CSV
 
 # Installation
 
