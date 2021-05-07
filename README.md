@@ -21,4 +21,4 @@ e.g. I added exec `~/Scripts/musicMonitor/musicMonitor.sh` to my `.config/sway/c
 # Output
 ` <Title>, <Artist>,	<Album>,	<Genre>,	<Song Length>,	<Track number>,	<Year>,	<Play date>,	<Play time>,	<Volume>`
 
-When a tag is not found, then nothing is added except "," , meaning that the colums are always the same for each feild.
+When a tag is not found, then nothing is added except "," , meaning that the colums are always the same for each field.
