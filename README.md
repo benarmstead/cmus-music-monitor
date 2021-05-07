@@ -4,6 +4,12 @@ Shell script for Cmus to monitor music listening habits.
 
 Gets all the metadata of the song being listened to, and writes it to a CSV.
 
+## Program to analyse data
+
+I have written a small python program utilizing matplotlib to analyse and effectively display the data stored in the .csv.
+
+It can be found [here](https://github.com/benarmstead/music-grapher)
+
 # Installation
 
 `git clone https://github.com/benarmstead/cmus-music-monitor/`
